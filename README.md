@@ -10,7 +10,7 @@ A little score-based 3D game written purely in C++ and OpenGL, made for the Comp
 - [Installation (Linux)](#installation-linux)
 - [Executing the game (Linux)](#executing-the-game-linux)
 - [Objective](#objective)
-    - [Tips:](#tips)
+    - [Tips](#tips)
 - [Controls](#controls)
 
 <hr>
@@ -54,7 +54,7 @@ After the project build, do:
 
 Grab the gold bar and take it to the treasure chest. Do not let the blue wave touch you.
 
-#### Tips:
+#### Tips
 
 - When are you carrying the Gold Bar, you'll become slower and perform a lower jump. So, if the wave is nearby, just drop it and take back later.
 
@@ -62,18 +62,18 @@ Grab the gold bar and take it to the treasure chest. Do not let the blue wave to
 
 ## Controls
 
-**W** - Roll forward;
-**S** - Roll back;
-**A** - Roll left;
-**D** - Roll right;
-**Spacebar** - Jump;
-**i** - Increase ball size;
-**k** - Decrease ball size;
-**p** - Pause / Unpause;
-**esc** - Exit
-**Left mouse button** - Grab the gold bar;
-**Right mouse button** - Drop the gold bar;
-**Mouse scroll** - Change camera distance;
+**W** - Roll forward;<br>
+**S** - Roll back;<br>
+**A** - Roll left;<br>
+**D** - Roll right;<br>
+**Spacebar** - Jump;<br>
+**i** - Increase ball size;<br>
+**k** - Decrease ball size;<br>
+**p** - Pause / Unpause;<br>
+**esc** - Exit<br>
+**Left mouse button** - Grab the gold bar;<br>
+**Right mouse button** - Drop the gold bar;<br>
+**Mouse scroll** - Change camera distance;<br>
 **Mouse movement** - Rotate view.
 
 <hr>
